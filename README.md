@@ -20,6 +20,7 @@ Traditional Bengali keyboard layouts often struggle with ...
 ## 🛠 Project Ecosystem
 
 This repository serves as a directory for all Khipro-related projects. Find the specific implementation you are looking for below:
+
 <!--
 | Repository | Platform/Purpose | Status |
 | --- | --- | --- |
@@ -29,6 +30,7 @@ This repository serves as a directory for all Khipro-related projects. Find the 
 | khipro-desktop |  | 🔴 In Development |
 | khipro-website | | 🟢 Live |
 -->
+
 ---
 
 ## 🚀 Getting Started
