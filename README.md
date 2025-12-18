@@ -20,15 +20,15 @@ Traditional Bengali keyboard layouts often struggle with ...
 ## 🛠 Project Ecosystem
 
 This repository serves as a directory for all Khipro-related projects. Find the specific implementation you are looking for below:
-
+<!--
 | Repository | Platform/Purpose | Status |
 | --- | --- | --- |
 | **khipro** | The core logic and character mapping engine. | 🟢 Stable |
-| khipro | Android Keyboard App (IME). | 🟡 Beta |
+| khipro |  | 🟡 Beta |
 | khipro | Web-based editor and JS library for integration. | 🟢 Stable |
-| khipro-desktop | Windows/Linux/macOS implementations. | 🔴 In Development |
+| khipro-desktop |  | 🔴 In Development |
 | khipro-website | | 🟢 Live |
-
+-->
 ---
 
 ## 🚀 Getting Started
