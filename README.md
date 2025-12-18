@@ -4,7 +4,7 @@
 
 Welcome to the central hub for the **Khipro Keyboard** project. Khipro is a modern, efficient, and open-source Bengali input method designed to make typing Bengali faster, more intuitive, and accessible across all platforms.
 
-[Visit the Website](https://your-website-link.com) | [Join the Community](https://www.google.com/search?q=%23) | [Report Issues](https://www.google.com/search?q=%23)
+[Visit the Website](https://khiprokeyboard.github.io/) | [Join Telegram grp](https://t.me/KhiproKeyboard) | [Ask Questions or Submit Feedback](https://github.com/KhiproKeyboard/Khipro/discussions)
 
 ---
 
